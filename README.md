@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Linked List
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
