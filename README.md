@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0704-binary-search](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
