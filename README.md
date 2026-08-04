@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3931-check-adjacent-digit-differences](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
