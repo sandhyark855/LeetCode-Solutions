@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
