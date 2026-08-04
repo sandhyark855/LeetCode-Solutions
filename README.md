@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
