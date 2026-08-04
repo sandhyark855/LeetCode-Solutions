@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
