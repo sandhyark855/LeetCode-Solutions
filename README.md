@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
