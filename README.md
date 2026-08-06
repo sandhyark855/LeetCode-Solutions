@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3046-split-the-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3931-check-adjacent-digit-differences](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Linked List
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
