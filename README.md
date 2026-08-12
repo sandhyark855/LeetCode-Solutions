@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
