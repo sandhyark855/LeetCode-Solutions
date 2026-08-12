@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3931-check-adjacent-digit-differences](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Linked List
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3046-split-the-array](https://github.com/sandhyark855/LeetCode-Solutions/tree/master/3046-split-the-array) |
